@@ -1,0 +1,13 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tittle{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.paragraph{
+    text-align: center;
+    margin-top: 10px;
+}
